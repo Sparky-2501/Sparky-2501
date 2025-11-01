@@ -1,10 +1,10 @@
 ## 👋 Hello there, I'm Prathamesh  
 
 💫 **About Me:**  
-🌱 Currently exploring **Data Structures & Algorithms (DSA)**  
+🌱 Currently exploring **Data Structures & Algorithms (DSA in c++)**  
 💻 Pursuing **Full Stack Development** while strengthening my problem-solving skills  
 🛠️ Building my **Portfolio** — showcasing my tech journey and connecting with like-minded people  
-🤖 Enthusiast in **AI & modern tech stacks**  
+🤖 Enthusiast in **AI-ML & modern tech stacks**  
 ✨ Hobbies: Exploring new technologies, coding, and learning something creative every day  
 
 
