@@ -1,4 +1,4 @@
-## 👋 Hello there, I'm Prathamesh  
+## <h1>👋 Hello there, I'm Prathamesh  </h1>
 
 💫 **About Me:**  
 🌱 Currently exploring **Data Structures & Algorithms (DSA in c++)**  
