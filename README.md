@@ -1,17 +1,17 @@
-<h1 align="center">Hi, I'm Prathamesh 👋</h1><br>
+<h1 align="center">Hi, I'm Prathamesh 👋</h1>
 <h3 align="center">Aspiring AI-SDE | MERN Developer | DSA in C++</h3>
----
+
 ## 🚀 About Me
 - 🎓 B.E. CSE (AI) student  
 - 🌱 Focused on **DSA in C++** and **MERN Stack Development**
 - 🤖 Exploring **AI/ML, LLMs, and modern system design**
 - 🛠️ Building real-world projects & improving problem-solving skills
 - 🎯 Goal: **Product-based company / AI-SDE role**
----
+
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-shelke-86829b32a/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathamesh9b57@gmail.com)
----
+
 ## 💻 Tech Stack
 
 **Languages**  
