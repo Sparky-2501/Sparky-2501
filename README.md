@@ -4,7 +4,7 @@
 🌱 Currently exploring **Data Structures & Algorithms (DSA in c++)**  
 💻 Pursuing **MERN Stack Development** while strengthening my problem-solving skills  
 🛠️ Building my Portfolio & working on projects  — showcasing my tech journey ,exploring new libraries. <br>
-🤖 Enthusiast in **AI-ML & modern tech stacks**  
+🤖 Enthusiast in **AI-ML,llms & modern tech stacks**  
 ✨ Hobbies: Exploring new technologies, coding, and learning something creative every day  
 
 
