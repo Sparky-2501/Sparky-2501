@@ -14,7 +14,6 @@
 </ul>
 
 ---
-<br>
 
 <h3>🌐 Connect With Me</h3>
 <p>
