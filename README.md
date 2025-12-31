@@ -29,19 +29,13 @@
 
 <strong>Languages</strong><br>
 C · C++ · JavaScript · Python  
-
-<br><br>
-
+<br>
 <strong>Frontend</strong><br>
 HTML · CSS · Bootstrap · Tailwind CSS · React  
-
-<br><br>
-
+<br>
 <strong>Backend & Databases</strong><br>
 Node.js · Express.js · MongoDB · MySQL  
-
-<br><br>
-
+<br>
 <strong>Tools & DevOps</strong><br>
 Git · GitHub · Docker · Kubernetes · NPM · VS Code · Google Cloud  
 
