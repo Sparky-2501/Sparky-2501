@@ -1,14 +1,11 @@
 <h1 align="center">Hi, I'm Prathamesh 👋</h1>
 <h3 align="center">Aspiring AI-SDE | MERN Developer | DSA in C++</h3>
 
----
-
 ## 🚀 About Me
 - 🎓 B.E. CSE (AI) student  
 - 🌱 Currently focused on **DSA in C++** and **MERN Stack Development**
 - 🤖 Exploring **AI/ML, LLMs, and modern system design**
 - 🛠️ Building real-world projects & improving problem-solving skills
-- 🎯 Goal: **Product-based company / AI-SDE role**
 
 ---
 
