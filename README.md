@@ -1,6 +1,6 @@
 <h1>Hi, I'm Prathamesh 👋</h1>
 <ul>
-  <li><strong>Aspiring AI-SDE · MERN Developer · DSA in C++</strong></p></li>
+  <strong>Aspiring AI-SDE · MERN Developer · DSA in C++</strong></p>
 </ul>
 
 
