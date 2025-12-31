@@ -11,10 +11,7 @@
 ## 🌐**Reach me**:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-shelke-86829b32a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathamesh9b57@gmail.com) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sparky-2501&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sparky-2501&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparky-2501&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 #<h2 align="left">💻 Tech Stack :</h2>
 
@@ -59,6 +56,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
 </div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sparky-2501&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sparky-2501&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparky-2501&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sparky-2501&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
