@@ -3,7 +3,7 @@
 
 ---
 
-<h3>🚀 About Me</h3>
+<h3>🚀 About Me:</h3>
 <ul>
   <li>🎓 B.E. CSE (AI) student</li>
   <li>🌱 Focused on Data Structures & Algorithms (C++)</li>
@@ -13,7 +13,7 @@
 
 ---
 
-<h3>🌐 Connect With Me</h3>
+<h3>🌐 Connect With Me:</h3>
 <p>
   <a href="https://www.linkedin.com/in/prathamesh-shelke-86829b32a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
@@ -25,7 +25,7 @@
 
 ---
 
-<h3>💻 Tech Stack</h3>
+<h3>💻 Tech Stack:</h3>
 
 <strong>Languages</strong><br>
 C · C++ · JavaScript · Python  
@@ -41,21 +41,9 @@ Git · GitHub · Docker · Kubernetes · NPM · VS Code · Google Cloud
 
 ---
 
-<h3>📌 Current Focus</h3>
-<ul>
-  <li>📚 Mastering DSA (Arrays → Trees → Graphs)</li>
-  <li>🧠 Strengthening core CS fundamentals</li>
-  <li>🧪 Building AI + Web integrated projects</li>
-  <li>🗣️ Improving technical communication in English</li>
-</ul>
-
----
-
 <h3>📊 GitHub Activity</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sparky-2501&theme=aura&show_icons=true" /><br>
+<p> 
   <img src="https://nirzak-streak-stats.vercel.app/?user=Sparky-2501&theme=aura" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sparky-2501&layout=compact&theme=aura" />
 </p>
 
 ---
