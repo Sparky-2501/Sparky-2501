@@ -1,7 +1,4 @@
-<h1>Hi, I'm Prathamesh 👋</h1>
-<ul>
-  <strong>Aspiring AI-SDE · MERN Developer · DSA in C++</strong></p>
-</ul>
+<h1 align="center">Hi, I'm Prathamesh 👋</h1><p align="center"> <strong>Aspiring AI-SDE · MERN Developer · DSA in C++</strong></p>
 
 
 ---
