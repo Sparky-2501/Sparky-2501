@@ -13,7 +13,8 @@
   <li>🤖 Exploring AI/ML, LLMs, and modern system design</li>
 </ul>
 
-<br><hr/>
+---
+<br>
 
 <h3>🌐 Connect With Me</h3>
 <p>
