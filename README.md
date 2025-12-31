@@ -3,7 +3,7 @@
   <p><strong>Aspiring AI-SDE · MERN Developer · DSA in C++</strong></p>
 </div>
 
-<br>
+--
 
 <h3>🚀 About Me</h3>
 <ul>
@@ -13,7 +13,7 @@
   <li>🤖 Exploring AI/ML, LLMs, and modern system design</li>
 </ul>
 
----
+--
 
 <h3>🌐 Connect With Me</h3>
 <p>
@@ -25,7 +25,7 @@
   </a>
 </p>
 
-<br>
+--
 
 <h3>💻 Tech Stack</h3>
 
@@ -47,7 +47,7 @@ Node.js · Express.js · MongoDB · MySQL
 <strong>Tools & DevOps</strong><br>
 Git · GitHub · Docker · Kubernetes · NPM · VS Code · Google Cloud  
 
-<br>
+--
 
 <h3>📌 Current Focus</h3>
 <ul>
@@ -57,7 +57,7 @@ Git · GitHub · Docker · Kubernetes · NPM · VS Code · Google Cloud
   <li>🗣️ Improving technical communication in English</li>
 </ul>
 
-<br>
+--
 
 <h3>📊 GitHub Activity</h3>
 <p>
@@ -66,7 +66,7 @@ Git · GitHub · Docker · Kubernetes · NPM · VS Code · Google Cloud
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sparky-2501&layout=compact&theme=aura" />
 </p>
 
-<br>
+--
 
 <h3>🔝 Top Contributions</h3>
 <p>
