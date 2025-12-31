@@ -1,65 +1,53 @@
-## <h1>👋 Hello there, I'm Prathamesh  </h1>
+<h1 align="center">Hi, I'm Prathamesh 👋</h1>
+<h3 align="center">Aspiring AI-SDE | MERN Developer | DSA in C++</h3>
 
-💫 **About Me:**  
-🌱 Currently exploring **Data Structures & Algorithms (DSA in c++)**  
-💻 Pursuing **MERN Stack Development** while strengthening my problem-solving skills  
-🛠️ Building my Portfolio & working on projects  — showcasing my tech journey ,exploring new libraries. <br>
-🤖 Enthusiast in **AI-ML,llms & modern tech stacks**  
-✨ Hobbies: Exploring new technologies, coding, and learning something creative every day  
+---
 
+## 🚀 About Me
+- 🎓 B.E. CSE (AI) student  
+- 🌱 Currently focused on **DSA in C++** and **MERN Stack Development**
+- 🤖 Exploring **AI/ML, LLMs, and modern system design**
+- 🛠️ Building real-world projects & improving problem-solving skills
+- 🎯 Goal: **Product-based company / AI-SDE role**
 
-##🌐**Reach me:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-shelke-86829b32a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathamesh9b57@gmail.com) 
+---
 
-##💻**Tech Stack:**
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-shelke-86829b32a/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathamesh9b57@gmail.com)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-</div>
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sparky-2501&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sparky-2501&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparky-2501&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💻 Tech Stack
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sparky-2501&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+### Languages
+C • C++ • JavaScript • Python
 
+### Frontend
+HTML • CSS • Bootstrap • Tailwind CSS • React
+
+### Backend & Databases
+Node.js • Express.js • MongoDB • MySQL
+
+### Tools & DevOps
+Git • GitHub • Docker • Kubernetes • NPM • VS Code • Google Cloud
+
+---
+
+## 📌 Current Focus
+- 📚 Mastering **DSA (Arrays → Trees → Graphs)**
+- 🧠 Strengthening **core CS fundamentals**
+- 🧪 Building **AI + Web integrated projects**
+- 🗣️ Improving **technical communication in English**
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sparky-2501&theme=aura&show_icons=true)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=Sparky-2501&theme=aura)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparky-2501&layout=compact&theme=aura)
+
+---
+
+## 🔝 Top Contributions
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=Sparky-2501&limit=5&theme=tokyonight)
