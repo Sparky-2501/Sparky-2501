@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Prathamesh 👋</h1>
-  <h3><strong>Aspiring AI-SDE · MERN Developer · DSA in C++</strong></h3>
+  <p><strong>Aspiring AI-SDE · MERN Developer · DSA in C++</strong></p>
 </div>
 
 ---
