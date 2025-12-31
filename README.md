@@ -8,7 +8,7 @@
 ✨ Hobbies: Exploring new technologies, coding, and learning something creative every day  
 
 
-## 🌐** Reach me**:
+## 🌐**Reach me**:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-shelke-86829b32a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathamesh9b57@gmail.com) 
 
 # 📊 GitHub Stats:
