@@ -11,10 +11,9 @@
   <li>🌱 Focused on Data Structures & Algorithms (C++)</li>
   <li>💻 Building full-stack applications using MERN</li>
   <li>🤖 Exploring AI/ML, LLMs, and modern system design</li>
-  <li>🎯 Goal: Product-based company / AI-SDE role</li>
 </ul>
 
-<br>
+<br><hr/>
 
 <h3>🌐 Connect With Me</h3>
 <p>
