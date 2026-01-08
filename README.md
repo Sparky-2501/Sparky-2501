@@ -49,6 +49,4 @@ Git · GitHub · Docker · Kubernetes · NPM · VS Code · Google Cloud
 ---
 
 <h3>🔝 Top Contributions</h3>
-<p>
-  <img src="https://github-contributor-stats.vercel.app/api?username=Sparky-2501&limit=5&theme=tokyonight" />
-</p>
+<p>  <img src="https://github-contributor-stats.vercel.app/api?username=Sparky-2501&limit=5&theme=tokyonight" /></p>
