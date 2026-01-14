@@ -56,5 +56,9 @@ Git · GitHub · Docker · Kubernetes · NPM · VS Code · Google Cloud
 
 ---
 
-<h3>🔝 Top Contributions</h3>
-<p>  <img src="https://github-contributor-stats.vercel.app/api?username=Sparky-2501&limit=5&theme=tokyonight" /></p>
+<h3>📅 Contribution Graph</h3>
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Sparky-2501&theme=react-dark"
+  width="100%"
+/>
