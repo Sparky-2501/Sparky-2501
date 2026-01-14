@@ -61,11 +61,3 @@ Git · GitHub · Docker · Kubernetes · NPM · VS Code · Google Cloud
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sparky-2501&theme=github_dark" />
 </p>
-
-
-<h3>📅 Contribution Graph</h3>
-
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Sparky-2501&theme=react-dark"
-  width="100%"
-/>
