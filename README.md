@@ -45,14 +45,6 @@ Git · GitHub · Docker · Kubernetes · NPM · VS Code · Google Cloud
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Sparky-2501&show_icons=true&theme=dark&title_color=ff9800&icon_color=ff9800&text_color=ffffff&bg_color=0d1117"
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sparky-2501&layout=compact&theme=dark&title_color=ff9800&text_color=ffffff&bg_color=0d1117"
-    height="170"
-  />
-  <img 
   src="https://streak-stats.demolab.com?user=Sparky-2501&theme=dark&background=0d1117&ring=ff9800&fire=ff9800&currStreakLabel=ff9800"
 />
 </p>
