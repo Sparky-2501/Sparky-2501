@@ -70,5 +70,3 @@ Git · GitHub · Docker · Kubernetes · NPM · VS Code · Google Cloud
 </p>
 
 ---
-
----
