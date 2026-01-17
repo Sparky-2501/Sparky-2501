@@ -6,8 +6,8 @@
 <h3>🚀 About Me:</h3>
 <ul>
   <li>🎓 B.E. CSE (AI) student</li>
-  <li>🌱 Focused on Data Structures & Algorithms (C++)</li>
-  <li>💻 Building full-stack applications using MERN</li>
+  <li>🌱Consistently practicing Data Structures & Algorithms in C++ </li>
+  <li>💻 Building full-stack applications using MERN stack</li>
   <li>🤖 Exploring AI/ML, LLMs, and modern system design</li>
 </ul>
 
@@ -30,6 +30,9 @@
 <strong>Languages</strong><br>
 C · C++ · JavaScript · Python  
 <br>
+<strong>core CS</strong><br>
+Data Structures & Algorithms · OOPS · OS · DBMS · CN
+<br>
 <strong>Frontend</strong><br>
 HTML · CSS · Bootstrap · Tailwind CSS · React  
 <br>
@@ -43,12 +46,26 @@ Git · GitHub · Docker · Kubernetes · NPM · VS Code · Google Cloud
 
 <h3>📈 GitHub Stats</h3>
 
- ![](https://github-readme-stats.vercel.app/api?username=Sparky-2501&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sparky-2501&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparky-2501&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Sparky-2501&show_icons=true&theme=aura&hide_border=false&include_all_commits=true&count_private=true"
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sparky-2501&theme=aura&hide_border=false&layout=compact"
+    height="165"
+  />
+</p>
 
+<p align="center">
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=Sparky-2501&theme=aura&hide_border=false"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <em>Consistent daily practice focused on DSA, core CS, and system-building projects.</em>
+</p>
 
 ---
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sparky-2501&theme=github_dark" />
-</p>
