@@ -49,24 +49,26 @@ Git · GitHub · Docker · Kubernetes · NPM · VS Code · Google Cloud
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Sparky-2501&show_icons=true&theme=aura&hide_border=false&include_all_commits=true&count_private=true"
-    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=Sparky-2501&show_icons=true&theme=aura&include_all_commits=true&count_private=true"
+    height="160"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sparky-2501&theme=aura&hide_border=false&layout=compact"
-    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sparky-2501&layout=compact&theme=aura"
+    height="160"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=Sparky-2501&theme=aura&hide_border=false"
-    height="165"
+    src="https://nirzak-streak-stats.vercel.app/?user=Sparky-2501&theme=aura"
+    height="160"
   />
 </p>
 
 <p align="center">
   <em>Consistent daily practice focused on DSA, core CS, and system-building projects.</em>
 </p>
+
+---
 
 ---
