@@ -43,11 +43,10 @@ Git · GitHub · Docker · Kubernetes · NPM · VS Code · Google Cloud
 
 <h3>📈 GitHub Stats</h3>
 
-<p align="center">
  ![](https://github-readme-stats.vercel.app/api?username=Sparky-2501&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sparky-2501&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparky-2501&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</p>
+
 
 ---
 <p align="center">
