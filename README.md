@@ -30,7 +30,6 @@
 <strong>Languages</strong><br>
 C · C++ · JavaScript · Python  
 <br>
-
 <strong>core CS</strong><br>
 Data Structures & Algorithms · OOPS · OS · DBMS · CN
 <br>
@@ -38,11 +37,9 @@ Data Structures & Algorithms · OOPS · OS · DBMS · CN
 <strong>Frontend</strong><br>
 HTML · CSS · Bootstrap · Tailwind CSS · React  
 <br>
-
 <strong>Backend & Databases</strong><br>
 Node.js · Express.js · MongoDB · MySQL  
 <br>
-
 <strong>Tools & DevOps</strong><br>
 Git · GitHub · Docker · Kubernetes · NPM · VS Code · Google Cloud  
 
