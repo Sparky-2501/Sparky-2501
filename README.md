@@ -47,8 +47,11 @@ Git · GitHub · Docker · Kubernetes · NPM · VS Code · Google Cloud
 
 
 <h3>📈 GitHub Stats</h3>
-
-![Sparky-2501's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sparky-2501&theme=nightowl&hide_border=false)
+<p align="center">
+  <img
+     ![Sparky-2501's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sparky-2501&theme=nightowl&hide_border=false)
+/>
+</p>
 
 <p align="center">
   <em>Consistent daily practice focused on DSA, core CS, and system-building projects.</em>
