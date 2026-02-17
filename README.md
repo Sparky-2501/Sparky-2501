@@ -45,7 +45,7 @@ Git · GitHub · Docker · Kubernetes · NPM · VS Code · Google Cloud
 
 ---
 
-<h3>📈 GitHub Stats</h3>
+<h3>📊 GitHub Stats</h3>
 
 <table align="center">
 <tr>
@@ -67,13 +67,13 @@ Git · GitHub · Docker · Kubernetes · NPM · VS Code · Google Cloud
 
 <p align="center">
 <img 
-  src="https://sparky-github-stats.vercel.app/api?username=Sparky-2501&show_icons=true&theme=aura"
-  height="165"
+  src="https://nirzak-streak-stats.vercel.app/?user=Sparky-2501&theme=aura&hide_border=false"
+  height="180"
 />
 </p>
 
 <p align="center">
-  <em>Consistent daily practice focused on DSA, core CS, and system-building projects.</em>
+<em>Consistent daily practice focused on DSA, core CS, and system-building projects.</em>
 </p>
 
 ---
