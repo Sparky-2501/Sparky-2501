@@ -50,11 +50,11 @@ Git · GitHub · Docker · Kubernetes · NPM · VS Code · Google Cloud
 <p align="center">
 
 <img 
-  src="https://sparky-github-stats.vercel.app/api?username=Sparky-2501&show_icons=true&theme=aura"
+  src="https://sparky-github-stats.vercel.app/api?username=Sparky-2501&show_icons=true&theme=aura" height="165"
 />
 
 <img 
-  src="https://sparky-github-stats.vercel.app/api/top-langs/?username=Sparky-2501&layout=compact&theme=aura"
+  src="https://sparky-github-stats.vercel.app/api/top-langs/?username=Sparky-2501&layout=compact&theme=aura" height="165"
 />
 
 </p>
