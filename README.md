@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Prathamesh <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="30px" /></h1><p align="center"> <strong> MERN Developer · DSA in C++ · Aspiring AI-SDE </strong></p>
+<!-- <h1 align="center">Hi, I'm Prathamesh <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="30px" /></h1><p align="center"> <strong> MERN Developer · DSA in C++ · Aspiring AI-SDE </strong></p>
 
 
 ---
@@ -76,4 +76,4 @@ Git · GitHub · Docker · Kubernetes · NPM · VS Code · Google Cloud
 <em>Consistent daily practice focused on DSA, core CS, and system-building projects.</em>
 </p>
 
----
+--- -->
