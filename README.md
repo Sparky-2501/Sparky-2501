@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Prathamesh <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="30px" /></h1><p align="center"> <strong> MERN Developer · DSA in C++ · Aspiring AI-SDE </strong></p>
 
-
 ---
 
 <h3>🚀 About Me:</h3>
@@ -22,6 +21,8 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=Sparky-2501)
 
 ---
 
