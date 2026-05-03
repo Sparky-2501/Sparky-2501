@@ -12,7 +12,7 @@
 
 ---
 
-<h3>🌐 Connect With Me:</h3>
+<h3>🌐 Socials:</h3>
 <p>
   <a href="https://www.linkedin.com/in/prathamesh-shelke-86829b32a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
