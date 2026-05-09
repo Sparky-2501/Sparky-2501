@@ -68,7 +68,7 @@ Git · GitHub · Docker · Kubernetes · NPM · VS Code · Google Cloud
 
 <p align="center">
 <img 
-  src="https://nirzak-streak-stats.vercel.app/?user=Sparky-2501&theme=aura&hide_border=false"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Sparky-2501&layout=compact&theme=aura"
   height="180"
 />
 </p>
