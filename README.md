@@ -85,6 +85,8 @@ Git · GitHub · Docker · Kubernetes · NPM · VS Code · Google Cloud
 </tr>
 </table>
 
+---
+
 <h3>📊 GitHub Stats</h3>
 
 <table align="center">
