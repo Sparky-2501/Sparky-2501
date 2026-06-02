@@ -46,6 +46,45 @@ Git · GitHub · Docker · Kubernetes · NPM · VS Code · Google Cloud
 
 ---
 
+<h3 align="left">💻 Coding Profiles</h3>
+
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+<tr>
+
+<td width="32%" align="center" valign="middle" style="border: none;">
+
+<br>
+
+<a href="https://leetcode.com/u/Sparky-2501/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-1E1E2E?style=for-the-badge&logo=leetcode&logoColor=A855F7&labelColor=111827&color=1F2937labelColor=5DF4C2"/>
+</a>
+
+<br><br>
+
+<a href="https://www.codechef.com/users/patu_143">
+<img src="https://img.shields.io/badge/CodeChef-Profile-1E1E2E?style=for-the-badge&logo=codechef&logoColor=A855F7&labelColor=111827&color=1F2937labelColor=5DF4C2"/>
+</a>
+
+<br><br>
+
+<a href="https://www.geeksforgeeks.org/user/prathame2dgr/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-1E1E2E?style=for-the-badge&logo=geeksforgeeks&logoColor=A855F7&labelColor=111827&color=1F2937labelColor=5DF4C2"/>
+</a>
+
+</td>
+
+<td width="68%" align="center" valign="top" style="border: none;">
+
+<img 
+  src="https://leetcard.jacoblin.cool/Sparky-2501?theme=dark&font=Baloo&ext=heatmap"
+  width="95%"
+/>
+
+</td>
+
+</tr>
+</table>
+
 <h3>📊 GitHub Stats</h3>
 
 <table align="center">
