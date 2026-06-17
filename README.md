@@ -44,9 +44,10 @@ Node.js · Express.js · MongoDB · MySQL
 <strong>Tools & DevOps</strong><br>
 Git · GitHub · Docker · Kubernetes · NPM · VS Code · Google Cloud  
 
+<!-- 
 ---
 
-<h3 align="left">💻 Coding Profiles</h3>
+ <h3 align="left">💻 Coding Profiles</h3>
 
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
 <tr>
@@ -83,7 +84,7 @@ Git · GitHub · Docker · Kubernetes · NPM · VS Code · Google Cloud
 </td>
 
 </tr>
-</table>
+</table> -->
 
 ---
 
