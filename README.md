@@ -109,10 +109,10 @@ Git · GitHub · Docker · Kubernetes · NPM · VS Code · Google Cloud
 </table>
 
 <p align="center">
-<!-- <img 
+<img 
   src="https://github-readme-streak-stats.herokuapp.com/?user=Sparky-2501&layout=compact&theme=aura"
   height="180"
-/> -->
+/>
 </p>
 
 <p align="center">
