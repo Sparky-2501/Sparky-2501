@@ -118,41 +118,29 @@
 
 
   <!-- ================================================= -->
-  <!-- TERMINAL HEADER -->
+  <!-- MAC-STYLE TRAFFIC LIGHT DOTS (LEFT) -->
   <!-- ================================================= -->
 
-  <text x="35"
+  <circle cx="45" cy="36" r="6" fill="#FF5F57"/>
+  <circle cx="65" cy="36" r="6" fill="#FEBC2E"/>
+  <circle cx="85" cy="36" r="6" fill="#28C840"/>
+
+
+  <!-- ================================================= -->
+  <!-- TERMINAL HEADER (RIGHT) -->
+  <!-- ================================================= -->
+
+  <text x="865"
         y="42"
         fill="url(#accent)"
         font-family="monospace"
         font-size="15"
-        font-weight="600">
+        font-weight="600"
+        text-anchor="end">
 
     ~/engineering-stack
 
   </text>
-
-
-  <!-- Status indicator -->
-
-  <circle cx="825"
-          cy="36"
-          r="5"
-          fill="#00C6FF">
-
-    <animate
-      attributeName="opacity"
-      values="1;0.35;1"
-      dur="4s"
-      repeatCount="indefinite"/>
-
-    <animate
-      attributeName="r"
-      values="5;6;5"
-      dur="4s"
-      repeatCount="indefinite"/>
-
-  </circle>
 
 
   <!-- ================================================= -->
