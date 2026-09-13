@@ -5,157 +5,294 @@
 
     <!-- Background -->
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#090909"/>
-      <stop offset="50%" stop-color="#111111"/>
-      <stop offset="100%" stop-color="#090909"/>
+      <stop offset="0%" stop-color="#06080F"/>
+      <stop offset="50%" stop-color="#0B1020"/>
+      <stop offset="100%" stop-color="#05070D"/>
     </linearGradient>
 
-    <!-- Subtle yellow glow -->
-    <radialGradient id="glow">
-      <stop offset="0%" stop-color="#F7C948" stop-opacity="0.16"/>
-      <stop offset="100%" stop-color="#F7C948" stop-opacity="0"/>
+    <!-- Blue → Pink accent -->
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00C6FF"/>
+      <stop offset="50%" stop-color="#7B61FF"/>
+      <stop offset="100%" stop-color="#FF2BD6"/>
+    </linearGradient>
+
+    <!-- Pink glow -->
+    <radialGradient id="pinkGlow">
+      <stop offset="0%" stop-color="#FF2BD6" stop-opacity="0.18"/>
+      <stop offset="55%" stop-color="#FF2BD6" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#FF2BD6" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Blue glow -->
+    <radialGradient id="blueGlow">
+      <stop offset="0%" stop-color="#00C6FF" stop-opacity="0.16"/>
+      <stop offset="55%" stop-color="#00C6FF" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#00C6FF" stop-opacity="0"/>
     </radialGradient>
 
     <!-- Grid -->
-    <pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse">
+    <pattern id="grid" width="35" height="35"
+             patternUnits="userSpaceOnUse">
       <path d="M 35 0 L 0 0 0 35"
             fill="none"
-            stroke="#ffffff"
+            stroke="#FFFFFF"
             stroke-opacity="0.035"
             stroke-width="1"/>
     </pattern>
 
+    <!-- Soft border glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3"
+                      result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
   </defs>
 
-  <!-- Background -->
-  <rect width="900" height="360" rx="18" fill="url(#bg)"/>
 
-  <!-- Moving glow -->
-  <ellipse cx="150" cy="80" rx="260" ry="180" fill="url(#glow)">
+  <!-- ================================================= -->
+  <!-- BACKGROUND -->
+  <!-- ================================================= -->
+
+  <rect width="900"
+        height="360"
+        rx="18"
+        fill="url(#bg)"/>
+
+
+  <!-- Subtle grid -->
+  <rect width="900"
+        height="360"
+        rx="18"
+        fill="url(#grid)"/>
+
+
+  <!-- ================================================= -->
+  <!-- SLOW MOVING BACKGROUND GLOW -->
+  <!-- ================================================= -->
+
+  <ellipse cx="160"
+           cy="90"
+           rx="280"
+           ry="190"
+           fill="url(#blueGlow)">
+
     <animate
       attributeName="cx"
-      values="150;750;150"
-      dur="9s"
+      values="160;700;160"
+      dur="22s"
       repeatCount="indefinite"/>
+
     <animate
       attributeName="cy"
-      values="80;280;80"
-      dur="9s"
+      values="90;270;90"
+      dur="22s"
       repeatCount="indefinite"/>
+
   </ellipse>
 
-  <!-- Grid -->
-  <rect width="900" height="360" rx="18" fill="url(#grid)"/>
 
-  <!-- Terminal header -->
-  <text x="35" y="42"
-        fill="#F7C948"
+  <ellipse cx="730"
+           cy="270"
+           rx="250"
+           ry="180"
+           fill="url(#pinkGlow)">
+
+    <animate
+      attributeName="cx"
+      values="730;200;730"
+      dur="26s"
+      repeatCount="indefinite"/>
+
+    <animate
+      attributeName="cy"
+      values="270;90;270"
+      dur="26s"
+      repeatCount="indefinite"/>
+
+  </ellipse>
+
+
+  <!-- ================================================= -->
+  <!-- TERMINAL HEADER -->
+  <!-- ================================================= -->
+
+  <text x="35"
+        y="42"
+        fill="url(#accent)"
         font-family="monospace"
-        font-size="15">
+        font-size="15"
+        font-weight="600">
+
     ~/engineering-stack
+
   </text>
 
-  <circle cx="825" cy="36" r="5" fill="#F7C948">
+
+  <!-- Status indicator -->
+
+  <circle cx="825"
+          cy="36"
+          r="5"
+          fill="#00C6FF">
+
     <animate
       attributeName="opacity"
       values="1;0.35;1"
-      dur="2.5s"
+      dur="4s"
       repeatCount="indefinite"/>
+
+    <animate
+      attributeName="r"
+      values="5;6;5"
+      dur="4s"
+      repeatCount="indefinite"/>
+
   </circle>
 
-  <!-- Divider -->
-  <line x1="35" y1="58" x2="865" y2="58"
-        stroke="#F7C948"
-        stroke-opacity="0.25"/>
 
-  <!-- Stack -->
+  <!-- ================================================= -->
+  <!-- HEADER DIVIDER -->
+  <!-- ================================================= -->
 
-  <text x="40" y="92"
-        fill="#F7C948"
+  <line x1="35"
+        y1="58"
+        x2="865"
+        y2="58"
+        stroke="url(#accent)"
+        stroke-opacity="0.35"/>
+
+
+  <!-- ================================================= -->
+  <!-- LANGUAGES -->
+  <!-- ================================================= -->
+
+  <text x="40"
+        y="92"
+        fill="#C86CFF"
         font-family="monospace"
-        font-size="14">
+        font-size="14"
+        font-weight="600">
+
     LANGUAGES
+
   </text>
 
-  <text x="205" y="92"
-        fill="#E6E6E6"
+  <text x="205"
+        y="92"
+        fill="#E8EDF7"
         font-family="monospace"
         font-size="14">
+
     → C++ · JavaScript · Python · SQL
+
   </text>
 
 
-  <text x="40" y="140"
-        fill="#F7C948"
+  <!-- ================================================= -->
+  <!-- CORE CS -->
+  <!-- ================================================= -->
+
+  <text x="40"
+        y="140"
+        fill="#C86CFF"
         font-family="monospace"
-        font-size="14">
+        font-size="14"
+        font-weight="600">
+
     CORE CS
+
   </text>
 
-  <text x="205" y="140"
-        fill="#E6E6E6"
+  <text x="205"
+        y="140"
+        fill="#E8EDF7"
         font-family="monospace"
         font-size="14">
+
     → DSA · OOP · DBMS · OS · Computer Networks
+
   </text>
 
 
-  <text x="40" y="188"
-        fill="#F7C948"
+  <!-- ================================================= -->
+  <!-- FULL STACK -->
+  <!-- ================================================= -->
+
+  <text x="40"
+        y="188"
+        fill="#C86CFF"
         font-family="monospace"
-        font-size="14">
+        font-size="14"
+        font-weight="600">
+
     FULL-STACK
+
   </text>
 
-  <text x="205" y="188"
-        fill="#E6E6E6"
+  <text x="205"
+        y="188"
+        fill="#E8EDF7"
         font-family="monospace"
         font-size="14">
-    → React · Node.js · Express · MongoDB · REST
+
+    → React · Node.js · Express · MongoDB · REST · WebRTC · Socket.IO · JWT
+
   </text>
 
-  <text x="205" y="210"
-        fill="#E6E6E6"
-        font-family="monospace"
-        font-size="14">
-    WebRTC · Socket.IO · JWT
-  </text>
+  <!-- ================================================= -->
+  <!-- AI / LLM -->
+  <!-- ================================================= -->
 
-
-  <text x="40" y="250"
-        fill="#F7C948"
+  <text x="40"
+        y="250"
+        fill="#C86CFF"
         font-family="monospace"
-        font-size="14">
+        font-size="14"
+        font-weight="600">
+
     AI / LLM
+
   </text>
 
-  <text x="205" y="250"
-        fill="#E6E6E6"
+  <text x="205"
+        y="250"
+        fill="#E8EDF7"
         font-family="monospace"
         font-size="14">
+
     → LLM APIs · Prompt Engineering · RAG · Vector DBs
+
   </text>
 
 
-  <text x="40" y="298"
-        fill="#F7C948"
+  <!-- ================================================= -->
+  <!-- SYSTEMS -->
+  <!-- ================================================= -->
+
+  <text x="40"
+        y="298"
+        fill="#C86CFF"
         font-family="monospace"
-        font-size="14">
+        font-size="14"
+        font-weight="600">
+
     SYSTEMS
+
   </text>
 
-  <text x="205" y="298"
-        fill="#E6E6E6"
+  <text x="205"
+        y="298"
+        fill="#E8EDF7"
         font-family="monospace"
         font-size="14">
-    → Kafka/RabbitMQ · Redis · Docker · Kubernetes
-  </text>
 
-  <text x="205" y="320"
-        fill="#E6E6E6"
-        font-family="monospace"
-        font-size="14">
-    GitHub Actions · OpenTelemetry · k6
+    → Kafka/RabbitMQ · Redis · Docker · Kubernetes · GitHub Actions · OpenTelemetry · k6
+
   </text>
 
 </svg>
