@@ -2,12 +2,12 @@
 
 ---
 
-<h3>🚀 About Me:</h3>
+<h3>🚀 About Me</h3>
 <ul>
-  <li>🎓 B.E. CSE (AI) student</li>
-  <li>🌱Consistently practicing Data Structures & Algorithms in C++ </li>
-  <li>💻 Building full-stack applications using MERN stack</li>
-  <li>🤖 Exploring AI/ML, LLMs, and modern system design</li>
+  <li>🎓 Computer Science Engineering (AI) student focused on software engineering and AI-driven applications.</li>
+  <li>💻 Building applications with the MERN stack and exploring LLM-powered applications and scalable system design. </li>
+  <li>🧠 Strengthening problem-solving skills through consistent daily DSA practice in C++ across different coding platforms.</li>
+  <li>⚙️ Focused on turning ideas into reliable, production-oriented software while continuously improving my engineering fundamentals.</li>
 </ul>
 
 ---
@@ -29,20 +29,21 @@
 <h3>💻 Tech Stack:</h3>
 
 <strong>Languages</strong><br>
-C · C++ · JavaScript · Python  
-<br>
+C · C++ · JavaScript · Python  <br>
+
 <strong>core CS</strong><br>
-Data Structures & Algorithms · OOPS · OS · DBMS · CN
-<br>
+Data Structures & Algorithms · OOPS · OS · DBMS · CN<br>
 
 <strong>Frontend</strong><br>
-HTML · CSS · Bootstrap · Tailwind CSS · React  
-<br>
+HTML · CSS · Bootstrap · Tailwind CSS · React  <br>
+
 <strong>Backend & Databases</strong><br>
-Node.js · Express.js · MongoDB · MySQL  
-<br>
+Node.js · Express.js · MongoDB · MySQL  <br>
+
 <strong>Tools & DevOps</strong><br>
 Git · GitHub · Docker · Kubernetes · NPM · VS Code · Google Cloud  
+
+
 
 <!-- 
 ---
