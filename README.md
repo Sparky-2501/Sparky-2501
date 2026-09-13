@@ -26,24 +26,11 @@
 
 ---
 
-<h3>💻 Tech Stack:</h3>
+<h3>🛠️ Engineering Stack</h3>
 
-<strong>Languages</strong><br>
-C · C++ · JavaScript · Python  <br>
-
-<strong>core CS</strong><br>
-Data Structures & Algorithms · OOPS · OS · DBMS · CN<br>
-
-<strong>Frontend</strong><br>
-HTML · CSS · Bootstrap · Tailwind CSS · React  <br>
-
-<strong>Backend & Databases</strong><br>
-Node.js · Express.js · MongoDB · MySQL  <br>
-
-<strong>Tools & DevOps</strong><br>
-Git · GitHub · Docker · Kubernetes · NPM · VS Code · Google Cloud  
-
-
+<p align="center">
+  <img src="stack.svg" width="850"/>
+</p>
 
 <!-- 
 ---
