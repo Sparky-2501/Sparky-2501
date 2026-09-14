@@ -1,8 +1,18 @@
-<h1 align="center">Hi, I'm Prathamesh <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="30px" /></h1><p align="center"> <strong> MERN Developer · DSA in C++ · Aspiring AI-SDE </strong></p>
+<h1 align="center">
+  Hi, I'm Prathamesh
+  <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="30px" />
+</h1>
+<p align="center">
+  <strong>
+    <span style="background: linear-gradient(90deg,#00C6FF,#7B61FF,#FF2BD6); -webkit-background-clip:text; color:transparent;">
+      Software Engineer · Full-Stack Development · AI/LLM Applications · C++/DSA  
+    </span>
+  </strong>
+</p>
 
 ---
 
-<h3>🚀 About Me</h3>
+<h3>🚀 About Me:</h3>
 <ul>
   <li>🎓 Computer Science Engineering (AI) student focused on software engineering and AI-driven applications.</li>
   <li>💻 Building applications with the MERN stack and exploring LLM-powered applications and scalable system design. </li>
@@ -12,7 +22,21 @@
 
 ---
 
-<h3>🌐 Socials:</h3>
+<h3>🌐 Connect:</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/prathamesh-shelke-86829b32a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:prathamesh9b57@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Sparky-2501&style=flat-square&color=C86CFF&label=PROFILE+VIEWS" />
+</p>
+<!-- <h3>🌐 Socials:</h3>
 <p>
   <a href="https://www.linkedin.com/in/prathamesh-shelke-86829b32a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
@@ -22,20 +46,19 @@
   </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=Sparky-2501)
+![](https://komarev.com/ghpvc/?username=Sparky-2501) -->
 
 ---
 
-<h3>🛠️ Engineering Stack</h3>
+<h3>🛠️ Engineering Stack:</h3>
 
 <p align="center">
   <img src="stack.svg" width="850"/>
 </p>
 
-<!-- 
----
+<!-- ---
 
- <h3 align="left">💻 Coding Profiles</h3>
+ <h3 align="left">💻 Coding Profiles:</h3>
 
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
 <tr>
