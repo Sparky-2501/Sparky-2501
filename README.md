@@ -5,7 +5,7 @@
 <p align="center">
   <strong>
     <span style="background: linear-gradient(90deg,#00C6FF,#7B61FF,#FF2BD6); -webkit-background-clip:text; color:transparent;">
-      Software Engineer · Full-Stack Development · AI/LLM Applications · C++/DSA  
+      Software Developer Aspirant · Full-Stack Development · AI/LLM Integration · C++/DSA  
     </span>
   </strong>
 </p>
