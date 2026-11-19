@@ -202,7 +202,7 @@
         font-family="monospace"
         font-size="15">
 
-    → DSA · OOP · DBMS · OS · Computer Networks
+    → DSA · OOP · DBMS · OS
 
   </text>
 
@@ -232,9 +232,10 @@
 
   </text>
 
-  <!-- ================================================= -->
-  <!-- AI / LLM -->
-  <!-- ================================================= -->
+     
+<!-- ================================================= -->
+<!-- AI / LLM -->
+<!-- ================================================= -->
 
   <text x="40"
         y="250"
@@ -279,7 +280,7 @@
         font-family="monospace"
         font-size="15">
 
-    → Kafka/RabbitMQ · Redis · Docker · Kubernetes · GitHub Actions · OpenTelemetry · k6
+    →  Redis · Docker · CI/CD · Kubernetes · GitHub Actions · OpenTelemetry
 
   </text>
 
