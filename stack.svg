@@ -155,133 +155,28 @@
         stroke-opacity="0.35"/>
 
 
-  <!-- ================================================= -->
-  <!-- LANGUAGES -->
-  <!-- ================================================= -->
+    <!-- LANGUAGES -->
+  <text x="40" y="92" fill="#C86CFF" font-family="monospace" font-size="15" font-weight="600">LANGUAGES</text>
+  <text x="205" y="92" fill="#E8EDF7" font-family="monospace" font-size="15">→ C++ · JavaScript · Python · SQL</text>
 
-  <text x="40"
-        y="92"
-        fill="#C86CFF"
-        font-family="monospace"
-        font-size="15"
-        font-weight="600">
-
-    LANGUAGES
-
-  </text>
-
-  <text x="205"
-        y="92"
-        fill="#E8EDF7"
-        font-family="monospace"
-        font-size="15">
-
-    → C++ · JavaScript · Python · SQL
-
-  </text>
-
-
-  <!-- ================================================= -->
   <!-- CORE CS -->
-  <!-- ================================================= -->
+  <text x="40" y="136" fill="#C86CFF" font-family="monospace" font-size="15" font-weight="600">CORE CS</text>
+  <text x="205" y="136" fill="#E8EDF7" font-family="monospace" font-size="15">→ DSA · OOP · DBMS · OS</text>
 
-  <text x="40"
-        y="140"
-        fill="#C86CFF"
-        font-family="monospace"
-        font-size="15"
-        font-weight="600">
+  <!-- FULL-STACK -->
+  <text x="40" y="180" fill="#C86CFF" font-family="monospace" font-size="15" font-weight="600">FULL-STACK</text>
+  <text x="205" y="180" fill="#E8EDF7" font-family="monospace" font-size="15">→ HTML/CSS · React · Node.js · Express · REST · JWT · WebRTC · Socket.IO</text>
 
-    CORE CS
+  <!-- DATABASES -->
+  <text x="40" y="224" fill="#C86CFF" font-family="monospace" font-size="15" font-weight="600">DATABASES</text>
+  <text x="205" y="224" fill="#E8EDF7" font-family="monospace" font-size="15">→ MongoDB · PostgreSQl · Redis</text>
 
-  </text>
+  <!-- AI / LLM -->
+  <text x="40" y="268" fill="#C86CFF" font-family="monospace" font-size="15" font-weight="600">AI / LLM</text>
+  <text x="205" y="268" fill="#E8EDF7" font-family="monospace" font-size="15">→ LLM APIs · Prompt Engineering · RAG · Vector DBs · Ollama</text>
 
-  <text x="205"
-        y="140"
-        fill="#E8EDF7"
-        font-family="monospace"
-        font-size="15">
-
-    → DSA · OOP · DBMS · OS
-
-  </text>
-
-
-  <!-- ================================================= -->
-  <!-- FULL STACK -->
-  <!-- ================================================= -->
-
-  <text x="40"
-        y="188"
-        fill="#C86CFF"
-        font-family="monospace"
-        font-size="15"
-        font-weight="600">
-
-    FULL-STACK
-
-  </text>
-
-  <text x="205"
-        y="188"
-        fill="#E8EDF7"
-        font-family="monospace"
-        font-size="15">
-
-    → React · Node.js · Express · MongoDB · REST · WebRTC · Socket.IO · JWT
-
-  </text>
-
-     
-<!-- ================================================= -->
-<!-- AI / LLM -->
-<!-- ================================================= -->
-
-  <text x="40"
-        y="250"
-        fill="#C86CFF"
-        font-family="monospace"
-        font-size="15"
-        font-weight="600">
-
-    AI / LLM
-
-  </text>
-
-  <text x="205"
-        y="250"
-        fill="#E8EDF7"
-        font-family="monospace"
-        font-size="15">
-
-    → LLM APIs · Prompt Engineering · RAG · Vector DBs
-
-  </text>
-
-
-  <!-- ================================================= -->
   <!-- SYSTEMS -->
-  <!-- ================================================= -->
-
-  <text x="40"
-        y="298"
-        fill="#C86CFF"
-        font-family="monospace"
-        font-size="15"
-        font-weight="600">
-
-    SYSTEMS
-
-  </text>
-
-  <text x="205"
-        y="298"
-        fill="#E8EDF7"
-        font-family="monospace"
-        font-size="15">
-
-    →  Redis · Docker · CI/CD · Kubernetes · GitHub Actions · OpenTelemetry
-
-  </text>
+  <text x="40" y="312" fill="#C86CFF" font-family="monospace" font-size="15" font-weight="600">SYSTEMS</text>
+  <text x="205" y="312" fill="#E8EDF7" font-family="monospace" font-size="15">→ Microservices · Docker · Kubernetes · GitHub Actions · OpenTelemetry</text>
 
 </svg>
