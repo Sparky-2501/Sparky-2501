@@ -14,9 +14,9 @@
 
 <h3>🚀 About Me:</h3>
 <ul>
-  <li>🎓 Computer Science Engineering (AI) student focused on software engineering and AI-driven applications.</li>
+  <li>🎓 Computer Science Engineering (AI) student focused on software development and AI-driven applications.</li>
   <li>💻 Building applications with the MERN stack and exploring LLM-powered applications and scalable system design. </li>
-  <li>🧠 Strengthening problem-solving skills through consistent daily DSA practice in C++ across different coding platforms.</li>
+  <li>🧠 Strengthening problem-solving skills through consistent DSA practice in C++ across different coding platforms.</li>
   <li>⚙️ Focused on turning ideas into reliable, production-oriented software while continuously improving my engineering fundamentals.</li>
 </ul>
 
